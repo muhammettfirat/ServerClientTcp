@@ -1,5 +1,5 @@
 # Server
-IOTECHMFirat
+
 Görsel Arayüz:
 Arayüzde 2 grup halinde 4 komponent olmalı.
 1. Grup (Lamba Grubu): Üzerinde lambayı simgeleyen bir grafik olmalı ve bir buton bulunmalı.
